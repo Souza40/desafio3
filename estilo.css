@@ -13,7 +13,7 @@ header {
 #logo {
     width: 100px;
     position:absolute;
-    top: 20 px;
+    top: 20px;
     margin-left: 5%;
 }
 #menu {
@@ -51,7 +51,7 @@ li:hover {
     text-shadow: 1px 1px rgb (22, 3, 3);
 }
 #ação{
-    color: rgba (57, 1, 83, 0.863);border: 20 px;
+    color: rgba (57, 1, 83, 0.863);border: 20px;
     border:20px #39159b solid;
     padding: 10px,20px,10px,20px;
 }
@@ -59,7 +59,7 @@ li:hover {
     width: 100px;
 }
 section{
-    padding: 20px; ;
+    padding: 20px; 
     float: left;
 }
 .destaque{
@@ -72,9 +72,7 @@ section{
     
 }
 .foto{
-    width: 20%;
-    border-radius: 20px; 
-    
+    width: 20%;  
 }
 .coluna{
     float: left;
