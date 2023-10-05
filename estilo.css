@@ -4,8 +4,8 @@ html, body {
 header {
     background-color: black;
     color: white;
-    height: 60 px;
-    width: 100 %;
+    height: 60px;
+    width: 100%;
     position: fixed;
     z-index: 10;
 
@@ -14,11 +14,11 @@ header {
     width: 100 px;
     position:absolute;
     top: 20 px;
-    margin-left: 5 %;
+    margin-left: 5%;
 }
 #menu {
     float: right;
-    margin-right: 5 %;
+    margin-right: 5%;
     list-style: none;
     margin-top: 0;
     
@@ -33,20 +33,20 @@ li:hover {
 }
 #imagem_fundo{
     background:url("./fotos/fome-mundo.jpg") ;
-    height: 100 % ;
+    height: 100% ;
     text-align:center ;
     background-size: cover;
 }
 #titulo1{
     color: rgb (51, 8, 92);
-    padding-top:20 % ;
-    font-size: 70 px;
+    padding-top:20% ;
+    font-size: 70px;
     line-height: 0,6;
 }
 #titulo2{
     color: #010d33;
-    margin-left:  20 %;
-    margin-right: 20 %;
+    margin-left:  20%;
+    margin-right: 20%;
     border-top: 3 px solid rgb (52, 3, 56) ;
     text-shadow: 1 px 1 px rgb (22, 3, 3);
 }
@@ -56,10 +56,10 @@ li:hover {
     padding: 10 px,20 px,10 px,20 px;
 }
 .icone{
-    width: 100 px;
+    width: 100px;
 }
 section{
-    padding: 20 px; ;
+    padding: 20px; ;
     float: left;
 }
 .destaque{
@@ -67,29 +67,29 @@ section{
 
 }
 #fomepontos{
-    width: 80 %;
-    height: 500 px;
+    width: 80%;
+    height: 500px;
     
 }
 .foto{
-    width: 20 %;
-    border-radius: 20 px; 
+    width: 20%;
+    border-radius: 20px; 
     
 }
 .coluna{
     float: left;
-    padding: 0 5 %;
+    padding: 0 5%;
     position: relative;
 }
 .dois{
-    width: 40 %;
+    width: 40%;
 }
 .quatro{
-    width: 15 % ;
+    width: 15% ;
 }
 .tres{
-    width: 29 %;
-    padding: 0 2 %;
+    width: 2%;
+    padding: 0 2%;
 }
 
 .justificado{
@@ -101,8 +101,8 @@ section{
 footer{
     background-color: #01AAEA;
     float: left;
-    width: 100 %;
-    height: 30 %;
+    width: 100%;
+    height: 30%;
     color: white
 }
 @media all and (max-width:768 px){
@@ -111,19 +111,19 @@ footer{
     }
     .coluna, .dois, .tres, .quatro {
         display: block;
-        width: 80 %;
-        padding: 0 px;
-        margin: 10 px auto;
+        width: 80%;
+        padding:  0px;
+        margin: 10px auto;
         float: none;
     }
     #logodiv{
-        width: 100 %;
+        width: 100%;
         position: relative;
         text-align: center;
-        padding: 0 px;
+        padding: 0px;
     }
     #logo{
-        margin-left: 0 px;
-        transform: translatex (-50 %)
+        margin-left: 0px;
+        transform: translatex(-50%)
     }
 }
