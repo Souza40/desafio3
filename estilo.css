@@ -14,7 +14,7 @@ header {
     width: 100px;
     position:absolute;
     top: 20px;
-    margin-left: 5%;
+    margin-left:5%;
 }
 #menu {
     float: right;
@@ -52,7 +52,7 @@ li:hover {
 }
 #ação{
     color: rgba (57, 1, 83, 0.863);border: 20px;
-    border:20px #39159b solid;
+    border:20px#39159b solid;
     padding: 10px,20px,10px,20px;
 }
 .icone{
@@ -72,7 +72,7 @@ section{
     
 }
 .foto{
-    width: 20%;  
+    width: 25%;  
 }
 .coluna{
     float: left;
@@ -87,7 +87,7 @@ section{
 }
 .tres{
     width: 29%;
-    padding: 0 2%;
+    padding:0 2%;
 }
 
 .justificado{
@@ -101,7 +101,7 @@ footer{
     float: left;
     width: 100%;
     height: 30%;
-    color: white
+    color: white;
 }
 @media all and (max-width:768 px){
     #menu{
@@ -110,7 +110,7 @@ footer{
     .coluna, .dois, .tres, .quatro {
         display: block;
         width: 80%;
-        padding:  0px;
+        padding:  0;
         margin: 10px auto;
         float: none;
     }
@@ -122,6 +122,6 @@ footer{
     }
     #logo{
         margin-left: 0px;
-        transform:translatex(-50%)
+        transform: translatex(-50%)
     }
 }
