@@ -33,7 +33,7 @@ li:hover {
 }
 #imagem_fundo{
     background:url("./fotos/fome-mundo.jpg") ;
-    height: 100%;
+    height: 100% ;
     text-align:center;
     background-size: cover;
 }
@@ -51,7 +51,7 @@ li:hover {
     text-shadow: 1px 1px rgb (22, 3, 3);
 }
 #ação{
-    color: rgba (57, 1, 83, 0.863);border: 20px;
+    color: rgba(57, 1, 83, 0.863);border: 20px;
     border:2px #39159b solid;
     padding: 10px,20px,10px,20px;
 }
@@ -72,7 +72,7 @@ section{
     
 }
 .foto{
-    width: 25%;  
+    width: 20%;  
 }
 .coluna{
     float: left;
@@ -91,7 +91,7 @@ section{
 }
 
 .justificado{
-    text-align: justify ;
+    text-align: justify;
 }
 .centralizado{
     text-align: center;
