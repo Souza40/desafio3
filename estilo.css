@@ -34,7 +34,7 @@ li:hover {
 #imagem_fundo{
     background:url("./fotos/fome-mundo.jpg") ;
     height: 100%;
-    text-align:center ;
+    text-align:center;
     background-size: cover;
 }
 #titulo1{
@@ -51,7 +51,7 @@ li:hover {
     text-shadow: 1px 1px rgb (22, 3, 3);
 }
 #ação{
-    color: rgba (57, 1, 83, 0.863);border: 20px;
+    color: rgba(57, 1, 83, 0.863);border: 20px;
     border:20px#39159b solid;
     padding: 10px,20px,10px,20px;
 }
